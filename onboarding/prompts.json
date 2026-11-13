@@ -1,0 +1,8 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompts": [
+    "Photorealistic editorial photograph for onboarding a desktop photo collage app. Landscape 3:2 composition. Overhead view of a professional charcoal desk with a neat landscape A4 sheet holding exactly ten small polaroid style photographs in five columns and two rows, plus several loose photographic prints nearby. Photographs depict travel scenery, flowers, friendly adult people and a cat. Warm natural light, realistic photographic paper textures, restrained premium studio feel. No illustrations, no drawings, no text, no logos, no UI or screen, no watermark.",
+    "Photorealistic portrait photograph for a photo cropping tutorial. Landscape 3:2 frame. A smiling adult woman with dark curly hair and a cream shirt standing outdoors in a sunlit garden. Full head with generous headroom and visible shoulders and upper torso, centered, plenty of background space around her so we can demonstrate safe cropping. Natural skin texture and soft bokeh, professional editorial photography. No illustration, no drawing, no text, no borders, no watermark.",
+    "Photorealistic close-up editorial photograph for desktop photo editing onboarding. Landscape 3:2 frame. A person's right hand naturally resting on a modern black computer mouse with a clearly visible scroll wheel, index finger near the wheel. Charcoal desk surface, softly blurred keyboard in background, natural window light, realistic skin and materials, clear useful composition, premium studio feel. No text, no logos, no illustration, no drawing, no watermark."
+  ]
+}

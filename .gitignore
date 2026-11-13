@@ -1,0 +1,22 @@
+# Python / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Client media and generated exports (use these local folders)
+/photos/
+/pic/
+/exports/
+/output/
+/outputs/
+*.zip
+*.psd
+*.log
+.DS_Store
+Thumbs.db
